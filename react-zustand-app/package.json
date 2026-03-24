@@ -19,6 +19,7 @@
     "@mui/material": "^7.3.9",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
+    "react-router-dom": "^7.13.2",
     "tss-react": "^4.9.20"
   },
   "devDependencies": {
