@@ -4,18 +4,18 @@ const theme = createTheme({
   palette: {
     mode: "light",
     primary: {
-      main: "#0f766e",
+      main: "#3c85bc",
     },
     secondary: {
-      main: "#d97706",
+      main: "#fafafa",
     },
     background: {
-      default: "#f4efe6",
+      default: "#ffffff",
       paper: "#fffdf8",
     },
     text: {
-      primary: "#1f2937",
-      secondary: "#52606d",
+      primary: "#222222",
+      secondary: "#3c85bc",
     },
   },
   shape: {
