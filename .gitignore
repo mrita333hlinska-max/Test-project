@@ -23,3 +23,23 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# --- AI assistant context (local only, never committed) ---
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+.claude/
+.cursor/
+.cursorrules
+.aider*
+.github/copilot-instructions.md
+
+# --- Environment / secrets ---
+# .env holds the database password and JWT secret. It must never reach git.
+# .env.example stays tracked: it documents which keys exist, with fake values.
+.env
+.env.*
+!.env.example
+
+# --- Build output ---
+BE/dist

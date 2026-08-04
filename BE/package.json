@@ -1,0 +1,19 @@
+{
+  "name": "react-fullstack-test-app-be",
+  "version": "1.0.0",
+  "description": "Backend for React Fullstack Test App",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node --enable-source-maps dist/index.js",
+    "typecheck": "tsc --noEmit",
+    "test": "echo \"no tests yet — added at stage 9\" && exit 0"
+  },
+  "author": "Marharyta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
