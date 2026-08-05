@@ -1,5 +1,6 @@
 import express from "express";
 import axios from "axios";
+import { readFile } from "fs/promises"; // Import the readFile function from the fs/promises module
 
 // 1. Prepare the Express application
 const app = express(); // Create an Express application
@@ -16,6 +17,12 @@ app.get("/", (_req, res) => {
       res.status(500).json({ error: "Failed to fetch data from external API" }); // Handle errors and send a 500 response
     });
   res.send("Hello, World!"); // Send a response for the root route
+});
+
+app.get("/chush", (_req, res) => {
+  readFile("chush.txt", "utf8").then((data) => {
+    res.send(data); // Send the file content as a response for the /chush route
+  });
 });
 
 app.get("/api", (_req, res) => {
