@@ -44,3 +44,6 @@ AGENTS.md
 
 # --- Build output ---
 BE/dist
+
+# --- Prisma generated client (build artifact, like dist/) ---
+BE/src/generated

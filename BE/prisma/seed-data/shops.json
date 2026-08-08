@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Local Outlet",
+    "address": "58 Market Sq, Berlin",
+    "country": "Germany"
+  },
+  {
+    "id": 2,
+    "name": "Family Mart",
+    "address": "152 Oak Rd, Hamburg",
+    "country": "Germany"
+  },
+  {
+    "id": 3,
+    "name": "Prime Outlet",
+    "address": "60 River Ln, Krakow",
+    "country": "Poland"
+  },
+  {
+    "id": 4,
+    "name": "Family Outlet",
+    "address": "184 High St, Prague",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 5,
+    "name": "Grand Emporium",
+    "address": "151 2nd Ave, Barcelona",
+    "country": "Spain"
+  },
+  {
+    "id": 6,
+    "name": "Green Goods",
+    "address": "72 Market Sq, Krakow",
+    "country": "Poland"
+  },
+  {
+    "id": 7,
+    "name": "Central Mart",
+    "address": "98 Main St, Manchester",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 8,
+    "name": "Fresh Market",
+    "address": "12 High St, Rome",
+    "country": "Italy"
+  },
+  {
+    "id": 9,
+    "name": "City Mart",
+    "address": "142 2nd Ave, Stockholm",
+    "country": "Sweden"
+  },
+  {
+    "id": 10,
+    "name": "Trendy Outlet",
+    "address": "181 Main St, Brno",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 11,
+    "name": "Grand Market",
+    "address": "21 Market Sq, Wroclaw",
+    "country": "Poland"
+  },
+  {
+    "id": 12,
+    "name": "Local Emporium",
+    "address": "163 2nd Ave, Munich",
+    "country": "Germany"
+  },
+  {
+    "id": 13,
+    "name": "Home Outlet",
+    "address": "172 2nd Ave, Chicago",
+    "country": "USA"
+  },
+  {
+    "id": 14,
+    "name": "Bright Outlet",
+    "address": "42 Oak Rd, Hamburg",
+    "country": "Germany"
+  },
+  {
+    "id": 15,
+    "name": "Family Outlet",
+    "address": "176 2nd Ave, Rotterdam",
+    "country": "Netherlands"
+  },
+  {
+    "id": 16,
+    "name": "North Goods",
+    "address": "103 2nd Ave, Krakow",
+    "country": "Poland"
+  },
+  {
+    "id": 17,
+    "name": "Trendy Goods",
+    "address": "55 High St, Berlin",
+    "country": "Germany"
+  },
+  {
+    "id": 18,
+    "name": "Modern Shop",
+    "address": "68 Market Sq, Gothenburg",
+    "country": "Sweden"
+  },
+  {
+    "id": 19,
+    "name": "Trendy Boutique",
+    "address": "150 Oak Rd, Manchester",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 20,
+    "name": "Metro Emporium",
+    "address": "24 Main St, Milan",
+    "country": "Italy"
+  }
+]

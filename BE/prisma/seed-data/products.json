@@ -1,0 +1,2662 @@
+[
+  {
+    "id": 1,
+    "name": "Sony Wireless Headphones",
+    "description": "Classic wireless headphones by Sony. Reliable quality for everyday use, sourced from USA.",
+    "price": 713.9,
+    "country": "USA",
+    "manufacturer": "Sony",
+    "category": {
+      "id": 1,
+      "name": "Electronics"
+    },
+    "shop": [
+      {
+        "id": 20,
+        "name": "Metro Emporium",
+        "address": "24 Main St, Milan",
+        "country": "Italy"
+      },
+      {
+        "id": 3,
+        "name": "Prime Outlet",
+        "address": "60 River Ln, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bosch Smart TV 55\"",
+    "description": "Signature smart tv 55\" by Bosch. Reliable quality for everyday use, sourced from Netherlands.",
+    "price": 896.52,
+    "country": "Netherlands",
+    "manufacturer": "Bosch",
+    "category": {
+      "id": 1,
+      "name": "Electronics"
+    },
+    "shop": [
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      },
+      {
+        "id": 18,
+        "name": "Modern Shop",
+        "address": "68 Market Sq, Gothenburg",
+        "country": "Sweden"
+      },
+      {
+        "id": 1,
+        "name": "Local Outlet",
+        "address": "58 Market Sq, Berlin",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sony Bluetooth Speaker",
+    "description": "Eco bluetooth speaker by Sony. Reliable quality for everyday use, sourced from Spain.",
+    "price": 692.89,
+    "country": "Spain",
+    "manufacturer": "Sony",
+    "category": {
+      "id": 1,
+      "name": "Electronics"
+    },
+    "shop": [
+      {
+        "id": 4,
+        "name": "Family Outlet",
+        "address": "184 High St, Prague",
+        "country": "Czech Republic"
+      },
+      {
+        "id": 10,
+        "name": "Trendy Outlet",
+        "address": "181 Main St, Brno",
+        "country": "Czech Republic"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bosch Robot Vacuum",
+    "description": "Advanced robot vacuum by Bosch. Reliable quality for everyday use, sourced from USA.",
+    "price": 7.89,
+    "country": "USA",
+    "manufacturer": "Bosch",
+    "category": {
+      "id": 1,
+      "name": "Electronics"
+    },
+    "shop": [
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      },
+      {
+        "id": 17,
+        "name": "Trendy Goods",
+        "address": "55 High St, Berlin",
+        "country": "Germany"
+      },
+      {
+        "id": 6,
+        "name": "Green Goods",
+        "address": "72 Market Sq, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi Laptop 14\"",
+    "description": "Eco laptop 14\" by Xiaomi. Reliable quality for everyday use, sourced from Germany.",
+    "price": 758.28,
+    "country": "Germany",
+    "manufacturer": "Xiaomi",
+    "category": {
+      "id": 1,
+      "name": "Electronics"
+    },
+    "shop": [
+      {
+        "id": 20,
+        "name": "Metro Emporium",
+        "address": "24 Main St, Milan",
+        "country": "Italy"
+      },
+      {
+        "id": 7,
+        "name": "Central Mart",
+        "address": "98 Main St, Manchester",
+        "country": "United Kingdom"
+      },
+      {
+        "id": 5,
+        "name": "Grand Emporium",
+        "address": "151 2nd Ave, Barcelona",
+        "country": "Spain"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "LG Smartphone",
+    "description": "Everyday smartphone by LG. Reliable quality for everyday use, sourced from USA.",
+    "price": 858.37,
+    "country": "USA",
+    "manufacturer": "LG",
+    "category": {
+      "id": 1,
+      "name": "Electronics"
+    },
+    "shop": [
+      {
+        "id": 1,
+        "name": "Local Outlet",
+        "address": "58 Market Sq, Berlin",
+        "country": "Germany"
+      },
+      {
+        "id": 11,
+        "name": "Grand Market",
+        "address": "21 Market Sq, Wroclaw",
+        "country": "Poland"
+      },
+      {
+        "id": 16,
+        "name": "North Goods",
+        "address": "103 2nd Ave, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sony Gaming Mouse",
+    "description": "Deluxe gaming mouse by Sony. Reliable quality for everyday use, sourced from Germany.",
+    "price": 791.45,
+    "country": "Germany",
+    "manufacturer": "Sony",
+    "category": {
+      "id": 1,
+      "name": "Electronics"
+    },
+    "shop": [
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      },
+      {
+        "id": 2,
+        "name": "Family Mart",
+        "address": "152 Oak Rd, Hamburg",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Samsung Mechanical Keyboard",
+    "description": "Compact mechanical keyboard by Samsung. Reliable quality for everyday use, sourced from Czech Republic.",
+    "price": 81.65,
+    "country": "Czech Republic",
+    "manufacturer": "Samsung",
+    "category": {
+      "id": 1,
+      "name": "Electronics"
+    },
+    "shop": [
+      {
+        "id": 3,
+        "name": "Prime Outlet",
+        "address": "60 River Ln, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 18,
+        "name": "Modern Shop",
+        "address": "68 Market Sq, Gothenburg",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Samsung 4K Monitor",
+    "description": "Advanced 4k monitor by Samsung. Reliable quality for everyday use, sourced from USA.",
+    "price": 852.42,
+    "country": "USA",
+    "manufacturer": "Samsung",
+    "category": {
+      "id": 1,
+      "name": "Electronics"
+    },
+    "shop": [
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Xiaomi Power Bank",
+    "description": "Essential power bank by Xiaomi. Reliable quality for everyday use, sourced from Czech Republic.",
+    "price": 868.09,
+    "country": "Czech Republic",
+    "manufacturer": "Xiaomi",
+    "category": {
+      "id": 1,
+      "name": "Electronics"
+    },
+    "shop": [
+      {
+        "id": 7,
+        "name": "Central Mart",
+        "address": "98 Main St, Manchester",
+        "country": "United Kingdom"
+      },
+      {
+        "id": 10,
+        "name": "Trendy Outlet",
+        "address": "181 Main St, Brno",
+        "country": "Czech Republic"
+      },
+      {
+        "id": 13,
+        "name": "Home Outlet",
+        "address": "172 2nd Ave, Chicago",
+        "country": "USA"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Levi's Denim Jacket",
+    "description": "Everyday denim jacket by Levi's. Reliable quality for everyday use, sourced from Sweden.",
+    "price": 409.07,
+    "country": "Sweden",
+    "manufacturer": "Levi's",
+    "category": {
+      "id": 2,
+      "name": "Clothing"
+    },
+    "shop": [
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Zara Cotton T-Shirt",
+    "description": "Premium cotton t-shirt by Zara. Reliable quality for everyday use, sourced from Italy.",
+    "price": 531.53,
+    "country": "Italy",
+    "manufacturer": "Zara",
+    "category": {
+      "id": 2,
+      "name": "Clothing"
+    },
+    "shop": [
+      {
+        "id": 19,
+        "name": "Trendy Boutique",
+        "address": "150 Oak Rd, Manchester",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "H&M Running Shoes",
+    "description": "Compact running shoes by H&M. Reliable quality for everyday use, sourced from Poland.",
+    "price": 638.51,
+    "country": "Poland",
+    "manufacturer": "H&M",
+    "category": {
+      "id": 2,
+      "name": "Clothing"
+    },
+    "shop": [
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Zara Wool Sweater",
+    "description": "Deluxe wool sweater by Zara. Reliable quality for everyday use, sourced from Poland.",
+    "price": 68.41,
+    "country": "Poland",
+    "manufacturer": "Zara",
+    "category": {
+      "id": 2,
+      "name": "Clothing"
+    },
+    "shop": [
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Nike Summer Dress",
+    "description": "Everyday summer dress by Nike. Reliable quality for everyday use, sourced from United Kingdom.",
+    "price": 123.41,
+    "country": "United Kingdom",
+    "manufacturer": "Nike",
+    "category": {
+      "id": 2,
+      "name": "Clothing"
+    },
+    "shop": [
+      {
+        "id": 19,
+        "name": "Trendy Boutique",
+        "address": "150 Oak Rd, Manchester",
+        "country": "United Kingdom"
+      },
+      {
+        "id": 16,
+        "name": "North Goods",
+        "address": "103 2nd Ave, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Nike Leather Belt",
+    "description": "Pro leather belt by Nike. Reliable quality for everyday use, sourced from Netherlands.",
+    "price": 89.41,
+    "country": "Netherlands",
+    "manufacturer": "Nike",
+    "category": {
+      "id": 2,
+      "name": "Clothing"
+    },
+    "shop": [
+      {
+        "id": 14,
+        "name": "Bright Outlet",
+        "address": "42 Oak Rd, Hamburg",
+        "country": "Germany"
+      },
+      {
+        "id": 12,
+        "name": "Local Emporium",
+        "address": "163 2nd Ave, Munich",
+        "country": "Germany"
+      },
+      {
+        "id": 20,
+        "name": "Metro Emporium",
+        "address": "24 Main St, Milan",
+        "country": "Italy"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Nike Winter Coat",
+    "description": "Premium winter coat by Nike. Reliable quality for everyday use, sourced from Sweden.",
+    "price": 607.65,
+    "country": "Sweden",
+    "manufacturer": "Nike",
+    "category": {
+      "id": 2,
+      "name": "Clothing"
+    },
+    "shop": [
+      {
+        "id": 4,
+        "name": "Family Outlet",
+        "address": "184 High St, Prague",
+        "country": "Czech Republic"
+      },
+      {
+        "id": 2,
+        "name": "Family Mart",
+        "address": "152 Oak Rd, Hamburg",
+        "country": "Germany"
+      },
+      {
+        "id": 13,
+        "name": "Home Outlet",
+        "address": "172 2nd Ave, Chicago",
+        "country": "USA"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Levi's Sneakers",
+    "description": "Pro sneakers by Levi's. Reliable quality for everyday use, sourced from Germany.",
+    "price": 176.46,
+    "country": "Germany",
+    "manufacturer": "Levi's",
+    "category": {
+      "id": 2,
+      "name": "Clothing"
+    },
+    "shop": [
+      {
+        "id": 15,
+        "name": "Family Outlet",
+        "address": "176 2nd Ave, Rotterdam",
+        "country": "Netherlands"
+      },
+      {
+        "id": 5,
+        "name": "Grand Emporium",
+        "address": "151 2nd Ave, Barcelona",
+        "country": "Spain"
+      },
+      {
+        "id": 14,
+        "name": "Bright Outlet",
+        "address": "42 Oak Rd, Hamburg",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "H&M Chino Pants",
+    "description": "Advanced chino pants by H&M. Reliable quality for everyday use, sourced from France.",
+    "price": 228.57,
+    "country": "France",
+    "manufacturer": "H&M",
+    "category": {
+      "id": 2,
+      "name": "Clothing"
+    },
+    "shop": [
+      {
+        "id": 15,
+        "name": "Family Outlet",
+        "address": "176 2nd Ave, Rotterdam",
+        "country": "Netherlands"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Uniqlo Baseball Cap",
+    "description": "Premium baseball cap by Uniqlo. Reliable quality for everyday use, sourced from Germany.",
+    "price": 588.66,
+    "country": "Germany",
+    "manufacturer": "Uniqlo",
+    "category": {
+      "id": 2,
+      "name": "Clothing"
+    },
+    "shop": [
+      {
+        "id": 1,
+        "name": "Local Outlet",
+        "address": "58 Market Sq, Berlin",
+        "country": "Germany"
+      },
+      {
+        "id": 3,
+        "name": "Prime Outlet",
+        "address": "60 River Ln, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Philips Coffee Maker",
+    "description": "Advanced coffee maker by Philips. Reliable quality for everyday use, sourced from Netherlands.",
+    "price": 435.81,
+    "country": "Netherlands",
+    "manufacturer": "Philips",
+    "category": {
+      "id": 3,
+      "name": "Home & Garden"
+    },
+    "shop": [
+      {
+        "id": 2,
+        "name": "Family Mart",
+        "address": "152 Oak Rd, Hamburg",
+        "country": "Germany"
+      },
+      {
+        "id": 6,
+        "name": "Green Goods",
+        "address": "72 Market Sq, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Dyson Air Fryer",
+    "description": "Essential air fryer by Dyson. Reliable quality for everyday use, sourced from Poland.",
+    "price": 242.35,
+    "country": "Poland",
+    "manufacturer": "Dyson",
+    "category": {
+      "id": 3,
+      "name": "Home & Garden"
+    },
+    "shop": [
+      {
+        "id": 10,
+        "name": "Trendy Outlet",
+        "address": "181 Main St, Brno",
+        "country": "Czech Republic"
+      },
+      {
+        "id": 14,
+        "name": "Bright Outlet",
+        "address": "42 Oak Rd, Hamburg",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Fiskars Cordless Vacuum",
+    "description": "Classic cordless vacuum by Fiskars. Reliable quality for everyday use, sourced from Sweden.",
+    "price": 174.95,
+    "country": "Sweden",
+    "manufacturer": "Fiskars",
+    "category": {
+      "id": 3,
+      "name": "Home & Garden"
+    },
+    "shop": [
+      {
+        "id": 2,
+        "name": "Family Mart",
+        "address": "152 Oak Rd, Hamburg",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Fiskars Table Lamp",
+    "description": "Premium table lamp by Fiskars. Reliable quality for everyday use, sourced from Spain.",
+    "price": 674.43,
+    "country": "Spain",
+    "manufacturer": "Fiskars",
+    "category": {
+      "id": 3,
+      "name": "Home & Garden"
+    },
+    "shop": [
+      {
+        "id": 2,
+        "name": "Family Mart",
+        "address": "152 Oak Rd, Hamburg",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Fiskars Garden Hose",
+    "description": "Everyday garden hose by Fiskars. Reliable quality for everyday use, sourced from Sweden.",
+    "price": 827.84,
+    "country": "Sweden",
+    "manufacturer": "Fiskars",
+    "category": {
+      "id": 3,
+      "name": "Home & Garden"
+    },
+    "shop": [
+      {
+        "id": 6,
+        "name": "Green Goods",
+        "address": "72 Market Sq, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 2,
+        "name": "Family Mart",
+        "address": "152 Oak Rd, Hamburg",
+        "country": "Germany"
+      },
+      {
+        "id": 17,
+        "name": "Trendy Goods",
+        "address": "55 High St, Berlin",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "IKEA Kitchen Knife Set",
+    "description": "Compact kitchen knife set by IKEA. Reliable quality for everyday use, sourced from USA.",
+    "price": 537.55,
+    "country": "USA",
+    "manufacturer": "IKEA",
+    "category": {
+      "id": 3,
+      "name": "Home & Garden"
+    },
+    "shop": [
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      },
+      {
+        "id": 13,
+        "name": "Home Outlet",
+        "address": "172 2nd Ave, Chicago",
+        "country": "USA"
+      },
+      {
+        "id": 4,
+        "name": "Family Outlet",
+        "address": "184 High St, Prague",
+        "country": "Czech Republic"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Fiskars Non-stick Pan",
+    "description": "Signature non-stick pan by Fiskars. Reliable quality for everyday use, sourced from United Kingdom.",
+    "price": 537.08,
+    "country": "United Kingdom",
+    "manufacturer": "Fiskars",
+    "category": {
+      "id": 3,
+      "name": "Home & Garden"
+    },
+    "shop": [
+      {
+        "id": 3,
+        "name": "Prime Outlet",
+        "address": "60 River Ln, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 14,
+        "name": "Bright Outlet",
+        "address": "42 Oak Rd, Hamburg",
+        "country": "Germany"
+      },
+      {
+        "id": 17,
+        "name": "Trendy Goods",
+        "address": "55 High St, Berlin",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Tefal Storage Shelf",
+    "description": "Pro storage shelf by Tefal. Reliable quality for everyday use, sourced from France.",
+    "price": 604.39,
+    "country": "France",
+    "manufacturer": "Tefal",
+    "category": {
+      "id": 3,
+      "name": "Home & Garden"
+    },
+    "shop": [
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      },
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Dyson Bed Linen Set",
+    "description": "Eco bed linen set by Dyson. Reliable quality for everyday use, sourced from USA.",
+    "price": 414.21,
+    "country": "USA",
+    "manufacturer": "Dyson",
+    "category": {
+      "id": 3,
+      "name": "Home & Garden"
+    },
+    "shop": [
+      {
+        "id": 1,
+        "name": "Local Outlet",
+        "address": "58 Market Sq, Berlin",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Dyson Wall Clock",
+    "description": "Signature wall clock by Dyson. Reliable quality for everyday use, sourced from Czech Republic.",
+    "price": 896.5,
+    "country": "Czech Republic",
+    "manufacturer": "Dyson",
+    "category": {
+      "id": 3,
+      "name": "Home & Garden"
+    },
+    "shop": [
+      {
+        "id": 18,
+        "name": "Modern Shop",
+        "address": "68 Market Sq, Gothenburg",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Nike Yoga Mat",
+    "description": "Eco yoga mat by Nike. Reliable quality for everyday use, sourced from Spain.",
+    "price": 123.54,
+    "country": "Spain",
+    "manufacturer": "Nike",
+    "category": {
+      "id": 4,
+      "name": "Sports & Outdoors"
+    },
+    "shop": [
+      {
+        "id": 3,
+        "name": "Prime Outlet",
+        "address": "60 River Ln, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Decathlon Tennis Racket",
+    "description": "Classic tennis racket by Decathlon. Reliable quality for everyday use, sourced from France.",
+    "price": 397.17,
+    "country": "France",
+    "manufacturer": "Decathlon",
+    "category": {
+      "id": 4,
+      "name": "Sports & Outdoors"
+    },
+    "shop": [
+      {
+        "id": 10,
+        "name": "Trendy Outlet",
+        "address": "181 Main St, Brno",
+        "country": "Czech Republic"
+      },
+      {
+        "id": 17,
+        "name": "Trendy Goods",
+        "address": "55 High St, Berlin",
+        "country": "Germany"
+      },
+      {
+        "id": 1,
+        "name": "Local Outlet",
+        "address": "58 Market Sq, Berlin",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Wilson Camping Tent",
+    "description": "Compact camping tent by Wilson. Reliable quality for everyday use, sourced from France.",
+    "price": 845.33,
+    "country": "France",
+    "manufacturer": "Wilson",
+    "category": {
+      "id": 4,
+      "name": "Sports & Outdoors"
+    },
+    "shop": [
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Adidas Cycling Helmet",
+    "description": "Everyday cycling helmet by Adidas. Reliable quality for everyday use, sourced from Germany.",
+    "price": 144.12,
+    "country": "Germany",
+    "manufacturer": "Adidas",
+    "category": {
+      "id": 4,
+      "name": "Sports & Outdoors"
+    },
+    "shop": [
+      {
+        "id": 20,
+        "name": "Metro Emporium",
+        "address": "24 Main St, Milan",
+        "country": "Italy"
+      },
+      {
+        "id": 7,
+        "name": "Central Mart",
+        "address": "98 Main St, Manchester",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Decathlon Dumbbell Set",
+    "description": "Eco dumbbell set by Decathlon. Reliable quality for everyday use, sourced from United Kingdom.",
+    "price": 457.33,
+    "country": "United Kingdom",
+    "manufacturer": "Decathlon",
+    "category": {
+      "id": 4,
+      "name": "Sports & Outdoors"
+    },
+    "shop": [
+      {
+        "id": 2,
+        "name": "Family Mart",
+        "address": "152 Oak Rd, Hamburg",
+        "country": "Germany"
+      },
+      {
+        "id": 3,
+        "name": "Prime Outlet",
+        "address": "60 River Ln, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Salomon Football",
+    "description": "Premium football by Salomon. Reliable quality for everyday use, sourced from France.",
+    "price": 8.16,
+    "country": "France",
+    "manufacturer": "Salomon",
+    "category": {
+      "id": 4,
+      "name": "Sports & Outdoors"
+    },
+    "shop": [
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Nike Hiking Backpack",
+    "description": "Everyday hiking backpack by Nike. Reliable quality for everyday use, sourced from Sweden.",
+    "price": 636.56,
+    "country": "Sweden",
+    "manufacturer": "Nike",
+    "category": {
+      "id": 4,
+      "name": "Sports & Outdoors"
+    },
+    "shop": [
+      {
+        "id": 1,
+        "name": "Local Outlet",
+        "address": "58 Market Sq, Berlin",
+        "country": "Germany"
+      },
+      {
+        "id": 4,
+        "name": "Family Outlet",
+        "address": "184 High St, Prague",
+        "country": "Czech Republic"
+      },
+      {
+        "id": 3,
+        "name": "Prime Outlet",
+        "address": "60 River Ln, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Nike Running Shorts",
+    "description": "Premium running shorts by Nike. Reliable quality for everyday use, sourced from Spain.",
+    "price": 751.95,
+    "country": "Spain",
+    "manufacturer": "Nike",
+    "category": {
+      "id": 4,
+      "name": "Sports & Outdoors"
+    },
+    "shop": [
+      {
+        "id": 18,
+        "name": "Modern Shop",
+        "address": "68 Market Sq, Gothenburg",
+        "country": "Sweden"
+      },
+      {
+        "id": 5,
+        "name": "Grand Emporium",
+        "address": "151 2nd Ave, Barcelona",
+        "country": "Spain"
+      },
+      {
+        "id": 14,
+        "name": "Bright Outlet",
+        "address": "42 Oak Rd, Hamburg",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Nike Water Bottle",
+    "description": "Eco water bottle by Nike. Reliable quality for everyday use, sourced from Poland.",
+    "price": 331.35,
+    "country": "Poland",
+    "manufacturer": "Nike",
+    "category": {
+      "id": 4,
+      "name": "Sports & Outdoors"
+    },
+    "shop": [
+      {
+        "id": 12,
+        "name": "Local Emporium",
+        "address": "163 2nd Ave, Munich",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Nike Fitness Tracker",
+    "description": "Compact fitness tracker by Nike. Reliable quality for everyday use, sourced from United Kingdom.",
+    "price": 321.53,
+    "country": "United Kingdom",
+    "manufacturer": "Nike",
+    "category": {
+      "id": 4,
+      "name": "Sports & Outdoors"
+    },
+    "shop": [
+      {
+        "id": 14,
+        "name": "Bright Outlet",
+        "address": "42 Oak Rd, Hamburg",
+        "country": "Germany"
+      },
+      {
+        "id": 5,
+        "name": "Grand Emporium",
+        "address": "151 2nd Ave, Barcelona",
+        "country": "Spain"
+      },
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "HarperCollins Science Fiction Novel",
+    "description": "Essential science fiction novel by HarperCollins. Reliable quality for everyday use, sourced from USA.",
+    "price": 27.17,
+    "country": "USA",
+    "manufacturer": "HarperCollins",
+    "category": {
+      "id": 5,
+      "name": "Books"
+    },
+    "shop": [
+      {
+        "id": 11,
+        "name": "Grand Market",
+        "address": "21 Market Sq, Wroclaw",
+        "country": "Poland"
+      },
+      {
+        "id": 14,
+        "name": "Bright Outlet",
+        "address": "42 Oak Rd, Hamburg",
+        "country": "Germany"
+      },
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Scholastic Cookbook",
+    "description": "Compact cookbook by Scholastic. Reliable quality for everyday use, sourced from USA.",
+    "price": 347.36,
+    "country": "USA",
+    "manufacturer": "Scholastic",
+    "category": {
+      "id": 5,
+      "name": "Books"
+    },
+    "shop": [
+      {
+        "id": 16,
+        "name": "North Goods",
+        "address": "103 2nd Ave, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "HarperCollins History Atlas",
+    "description": "Advanced history atlas by HarperCollins. Reliable quality for everyday use, sourced from United Kingdom.",
+    "price": 317.93,
+    "country": "United Kingdom",
+    "manufacturer": "HarperCollins",
+    "category": {
+      "id": 5,
+      "name": "Books"
+    },
+    "shop": [
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Penguin Children's Picture Book",
+    "description": "Essential children's picture book by Penguin. Reliable quality for everyday use, sourced from United Kingdom.",
+    "price": 298.78,
+    "country": "United Kingdom",
+    "manufacturer": "Penguin",
+    "category": {
+      "id": 5,
+      "name": "Books"
+    },
+    "shop": [
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Scholastic Programming Guide",
+    "description": "Essential programming guide by Scholastic. Reliable quality for everyday use, sourced from Spain.",
+    "price": 613.16,
+    "country": "Spain",
+    "manufacturer": "Scholastic",
+    "category": {
+      "id": 5,
+      "name": "Books"
+    },
+    "shop": [
+      {
+        "id": 11,
+        "name": "Grand Market",
+        "address": "21 Market Sq, Wroclaw",
+        "country": "Poland"
+      },
+      {
+        "id": 1,
+        "name": "Local Outlet",
+        "address": "58 Market Sq, Berlin",
+        "country": "Germany"
+      },
+      {
+        "id": 4,
+        "name": "Family Outlet",
+        "address": "184 High St, Prague",
+        "country": "Czech Republic"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Scholastic Poetry Collection",
+    "description": "Signature poetry collection by Scholastic. Reliable quality for everyday use, sourced from USA.",
+    "price": 866.46,
+    "country": "USA",
+    "manufacturer": "Scholastic",
+    "category": {
+      "id": 5,
+      "name": "Books"
+    },
+    "shop": [
+      {
+        "id": 2,
+        "name": "Family Mart",
+        "address": "152 Oak Rd, Hamburg",
+        "country": "Germany"
+      },
+      {
+        "id": 4,
+        "name": "Family Outlet",
+        "address": "184 High St, Prague",
+        "country": "Czech Republic"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "O'Reilly Mystery Thriller",
+    "description": "Deluxe mystery thriller by O'Reilly. Reliable quality for everyday use, sourced from Netherlands.",
+    "price": 657.04,
+    "country": "Netherlands",
+    "manufacturer": "O'Reilly",
+    "category": {
+      "id": 5,
+      "name": "Books"
+    },
+    "shop": [
+      {
+        "id": 14,
+        "name": "Bright Outlet",
+        "address": "42 Oak Rd, Hamburg",
+        "country": "Germany"
+      },
+      {
+        "id": 17,
+        "name": "Trendy Goods",
+        "address": "55 High St, Berlin",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Penguin Biography",
+    "description": "Signature biography by Penguin. Reliable quality for everyday use, sourced from Netherlands.",
+    "price": 175.11,
+    "country": "Netherlands",
+    "manufacturer": "Penguin",
+    "category": {
+      "id": 5,
+      "name": "Books"
+    },
+    "shop": [
+      {
+        "id": 14,
+        "name": "Bright Outlet",
+        "address": "42 Oak Rd, Hamburg",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Penguin Travel Guide",
+    "description": "Everyday travel guide by Penguin. Reliable quality for everyday use, sourced from Spain.",
+    "price": 619.73,
+    "country": "Spain",
+    "manufacturer": "Penguin",
+    "category": {
+      "id": 5,
+      "name": "Books"
+    },
+    "shop": [
+      {
+        "id": 7,
+        "name": "Central Mart",
+        "address": "98 Main St, Manchester",
+        "country": "United Kingdom"
+      },
+      {
+        "id": 12,
+        "name": "Local Emporium",
+        "address": "163 2nd Ave, Munich",
+        "country": "Germany"
+      },
+      {
+        "id": 14,
+        "name": "Bright Outlet",
+        "address": "42 Oak Rd, Hamburg",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Penguin Self-Help Book",
+    "description": "Signature self-help book by Penguin. Reliable quality for everyday use, sourced from Italy.",
+    "price": 285.94,
+    "country": "Italy",
+    "manufacturer": "Penguin",
+    "category": {
+      "id": 5,
+      "name": "Books"
+    },
+    "shop": [
+      {
+        "id": 10,
+        "name": "Trendy Outlet",
+        "address": "181 Main St, Brno",
+        "country": "Czech Republic"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Fisher-Price Building Blocks Set",
+    "description": "Essential building blocks set by Fisher-Price. Reliable quality for everyday use, sourced from France.",
+    "price": 296.92,
+    "country": "France",
+    "manufacturer": "Fisher-Price",
+    "category": {
+      "id": 6,
+      "name": "Toys & Games"
+    },
+    "shop": [
+      {
+        "id": 10,
+        "name": "Trendy Outlet",
+        "address": "181 Main St, Brno",
+        "country": "Czech Republic"
+      },
+      {
+        "id": 18,
+        "name": "Modern Shop",
+        "address": "68 Market Sq, Gothenburg",
+        "country": "Sweden"
+      },
+      {
+        "id": 5,
+        "name": "Grand Emporium",
+        "address": "151 2nd Ave, Barcelona",
+        "country": "Spain"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Hasbro Board Game",
+    "description": "Essential board game by Hasbro. Reliable quality for everyday use, sourced from Netherlands.",
+    "price": 611.19,
+    "country": "Netherlands",
+    "manufacturer": "Hasbro",
+    "category": {
+      "id": 6,
+      "name": "Toys & Games"
+    },
+    "shop": [
+      {
+        "id": 20,
+        "name": "Metro Emporium",
+        "address": "24 Main St, Milan",
+        "country": "Italy"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Fisher-Price Remote Control Car",
+    "description": "Essential remote control car by Fisher-Price. Reliable quality for everyday use, sourced from France.",
+    "price": 495.39,
+    "country": "France",
+    "manufacturer": "Fisher-Price",
+    "category": {
+      "id": 6,
+      "name": "Toys & Games"
+    },
+    "shop": [
+      {
+        "id": 10,
+        "name": "Trendy Outlet",
+        "address": "181 Main St, Brno",
+        "country": "Czech Republic"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Mattel Puzzle 1000pcs",
+    "description": "Essential puzzle 1000pcs by Mattel. Reliable quality for everyday use, sourced from United Kingdom.",
+    "price": 708.24,
+    "country": "United Kingdom",
+    "manufacturer": "Mattel",
+    "category": {
+      "id": 6,
+      "name": "Toys & Games"
+    },
+    "shop": [
+      {
+        "id": 11,
+        "name": "Grand Market",
+        "address": "21 Market Sq, Wroclaw",
+        "country": "Poland"
+      },
+      {
+        "id": 15,
+        "name": "Family Outlet",
+        "address": "176 2nd Ave, Rotterdam",
+        "country": "Netherlands"
+      },
+      {
+        "id": 19,
+        "name": "Trendy Boutique",
+        "address": "150 Oak Rd, Manchester",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Playmobil Action Figure",
+    "description": "Everyday action figure by Playmobil. Reliable quality for everyday use, sourced from United Kingdom.",
+    "price": 428.49,
+    "country": "United Kingdom",
+    "manufacturer": "Playmobil",
+    "category": {
+      "id": 6,
+      "name": "Toys & Games"
+    },
+    "shop": [
+      {
+        "id": 6,
+        "name": "Green Goods",
+        "address": "72 Market Sq, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 3,
+        "name": "Prime Outlet",
+        "address": "60 River Ln, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 10,
+        "name": "Trendy Outlet",
+        "address": "181 Main St, Brno",
+        "country": "Czech Republic"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Fisher-Price Plush Toy",
+    "description": "Deluxe plush toy by Fisher-Price. Reliable quality for everyday use, sourced from Czech Republic.",
+    "price": 88.57,
+    "country": "Czech Republic",
+    "manufacturer": "Fisher-Price",
+    "category": {
+      "id": 6,
+      "name": "Toys & Games"
+    },
+    "shop": [
+      {
+        "id": 10,
+        "name": "Trendy Outlet",
+        "address": "181 Main St, Brno",
+        "country": "Czech Republic"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Hasbro Doll House",
+    "description": "Classic doll house by Hasbro. Reliable quality for everyday use, sourced from United Kingdom.",
+    "price": 26.85,
+    "country": "United Kingdom",
+    "manufacturer": "Hasbro",
+    "category": {
+      "id": 6,
+      "name": "Toys & Games"
+    },
+    "shop": [
+      {
+        "id": 16,
+        "name": "North Goods",
+        "address": "103 2nd Ave, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Fisher-Price Card Game",
+    "description": "Advanced card game by Fisher-Price. Reliable quality for everyday use, sourced from Germany.",
+    "price": 375.91,
+    "country": "Germany",
+    "manufacturer": "Fisher-Price",
+    "category": {
+      "id": 6,
+      "name": "Toys & Games"
+    },
+    "shop": [
+      {
+        "id": 19,
+        "name": "Trendy Boutique",
+        "address": "150 Oak Rd, Manchester",
+        "country": "United Kingdom"
+      },
+      {
+        "id": 7,
+        "name": "Central Mart",
+        "address": "98 Main St, Manchester",
+        "country": "United Kingdom"
+      },
+      {
+        "id": 13,
+        "name": "Home Outlet",
+        "address": "172 2nd Ave, Chicago",
+        "country": "USA"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Playmobil Toy Train Set",
+    "description": "Pro toy train set by Playmobil. Reliable quality for everyday use, sourced from Netherlands.",
+    "price": 137.07,
+    "country": "Netherlands",
+    "manufacturer": "Playmobil",
+    "category": {
+      "id": 6,
+      "name": "Toys & Games"
+    },
+    "shop": [
+      {
+        "id": 1,
+        "name": "Local Outlet",
+        "address": "58 Market Sq, Berlin",
+        "country": "Germany"
+      },
+      {
+        "id": 4,
+        "name": "Family Outlet",
+        "address": "184 High St, Prague",
+        "country": "Czech Republic"
+      },
+      {
+        "id": 14,
+        "name": "Bright Outlet",
+        "address": "42 Oak Rd, Hamburg",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Hasbro Educational Tablet",
+    "description": "Everyday educational tablet by Hasbro. Reliable quality for everyday use, sourced from USA.",
+    "price": 420.76,
+    "country": "USA",
+    "manufacturer": "Hasbro",
+    "category": {
+      "id": 6,
+      "name": "Toys & Games"
+    },
+    "shop": [
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      },
+      {
+        "id": 4,
+        "name": "Family Outlet",
+        "address": "184 High St, Prague",
+        "country": "Czech Republic"
+      },
+      {
+        "id": 15,
+        "name": "Family Outlet",
+        "address": "176 2nd Ave, Rotterdam",
+        "country": "Netherlands"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "L'Oreal Face Moisturizer",
+    "description": "Everyday face moisturizer by L'Oreal. Reliable quality for everyday use, sourced from Sweden.",
+    "price": 889.15,
+    "country": "Sweden",
+    "manufacturer": "L'Oreal",
+    "category": {
+      "id": 7,
+      "name": "Beauty & Personal Care"
+    },
+    "shop": [
+      {
+        "id": 11,
+        "name": "Grand Market",
+        "address": "21 Market Sq, Wroclaw",
+        "country": "Poland"
+      },
+      {
+        "id": 15,
+        "name": "Family Outlet",
+        "address": "176 2nd Ave, Rotterdam",
+        "country": "Netherlands"
+      },
+      {
+        "id": 17,
+        "name": "Trendy Goods",
+        "address": "55 High St, Berlin",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Dove Shampoo 400ml",
+    "description": "Advanced shampoo 400ml by Dove. Reliable quality for everyday use, sourced from Spain.",
+    "price": 807.99,
+    "country": "Spain",
+    "manufacturer": "Dove",
+    "category": {
+      "id": 7,
+      "name": "Beauty & Personal Care"
+    },
+    "shop": [
+      {
+        "id": 16,
+        "name": "North Goods",
+        "address": "103 2nd Ave, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 15,
+        "name": "Family Outlet",
+        "address": "176 2nd Ave, Rotterdam",
+        "country": "Netherlands"
+      },
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "L'Oreal Sunscreen SPF50",
+    "description": "Everyday sunscreen spf50 by L'Oreal. Reliable quality for everyday use, sourced from France.",
+    "price": 438.7,
+    "country": "France",
+    "manufacturer": "L'Oreal",
+    "category": {
+      "id": 7,
+      "name": "Beauty & Personal Care"
+    },
+    "shop": [
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Dove Lipstick",
+    "description": "Eco lipstick by Dove. Reliable quality for everyday use, sourced from Germany.",
+    "price": 214.86,
+    "country": "Germany",
+    "manufacturer": "Dove",
+    "category": {
+      "id": 7,
+      "name": "Beauty & Personal Care"
+    },
+    "shop": [
+      {
+        "id": 11,
+        "name": "Grand Market",
+        "address": "21 Market Sq, Wroclaw",
+        "country": "Poland"
+      },
+      {
+        "id": 18,
+        "name": "Modern Shop",
+        "address": "68 Market Sq, Gothenburg",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Nivea Body Lotion",
+    "description": "Classic body lotion by Nivea. Reliable quality for everyday use, sourced from USA.",
+    "price": 211.97,
+    "country": "USA",
+    "manufacturer": "Nivea",
+    "category": {
+      "id": 7,
+      "name": "Beauty & Personal Care"
+    },
+    "shop": [
+      {
+        "id": 5,
+        "name": "Grand Emporium",
+        "address": "151 2nd Ave, Barcelona",
+        "country": "Spain"
+      },
+      {
+        "id": 7,
+        "name": "Central Mart",
+        "address": "98 Main St, Manchester",
+        "country": "United Kingdom"
+      },
+      {
+        "id": 3,
+        "name": "Prime Outlet",
+        "address": "60 River Ln, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Dove Electric Toothbrush",
+    "description": "Deluxe electric toothbrush by Dove. Reliable quality for everyday use, sourced from Netherlands.",
+    "price": 490.63,
+    "country": "Netherlands",
+    "manufacturer": "Dove",
+    "category": {
+      "id": 7,
+      "name": "Beauty & Personal Care"
+    },
+    "shop": [
+      {
+        "id": 2,
+        "name": "Family Mart",
+        "address": "152 Oak Rd, Hamburg",
+        "country": "Germany"
+      },
+      {
+        "id": 7,
+        "name": "Central Mart",
+        "address": "98 Main St, Manchester",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Dove Perfume 50ml",
+    "description": "Signature perfume 50ml by Dove. Reliable quality for everyday use, sourced from Netherlands.",
+    "price": 851.72,
+    "country": "Netherlands",
+    "manufacturer": "Dove",
+    "category": {
+      "id": 7,
+      "name": "Beauty & Personal Care"
+    },
+    "shop": [
+      {
+        "id": 19,
+        "name": "Trendy Boutique",
+        "address": "150 Oak Rd, Manchester",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Dove Hair Dryer",
+    "description": "Premium hair dryer by Dove. Reliable quality for everyday use, sourced from Sweden.",
+    "price": 848.74,
+    "country": "Sweden",
+    "manufacturer": "Dove",
+    "category": {
+      "id": 7,
+      "name": "Beauty & Personal Care"
+    },
+    "shop": [
+      {
+        "id": 13,
+        "name": "Home Outlet",
+        "address": "172 2nd Ave, Chicago",
+        "country": "USA"
+      },
+      {
+        "id": 14,
+        "name": "Bright Outlet",
+        "address": "42 Oak Rd, Hamburg",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Neutrogena Facial Cleanser",
+    "description": "Signature facial cleanser by Neutrogena. Reliable quality for everyday use, sourced from Spain.",
+    "price": 808.53,
+    "country": "Spain",
+    "manufacturer": "Neutrogena",
+    "category": {
+      "id": 7,
+      "name": "Beauty & Personal Care"
+    },
+    "shop": [
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      },
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Dove Nail Polish",
+    "description": "Premium nail polish by Dove. Reliable quality for everyday use, sourced from Sweden.",
+    "price": 353.02,
+    "country": "Sweden",
+    "manufacturer": "Dove",
+    "category": {
+      "id": 7,
+      "name": "Beauty & Personal Care"
+    },
+    "shop": [
+      {
+        "id": 13,
+        "name": "Home Outlet",
+        "address": "172 2nd Ave, Chicago",
+        "country": "USA"
+      },
+      {
+        "id": 6,
+        "name": "Green Goods",
+        "address": "72 Market Sq, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 15,
+        "name": "Family Outlet",
+        "address": "176 2nd Ave, Rotterdam",
+        "country": "Netherlands"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Michelin Car Battery",
+    "description": "Everyday car battery by Michelin. Reliable quality for everyday use, sourced from Czech Republic.",
+    "price": 29.12,
+    "country": "Czech Republic",
+    "manufacturer": "Michelin",
+    "category": {
+      "id": 8,
+      "name": "Automotive"
+    },
+    "shop": [
+      {
+        "id": 19,
+        "name": "Trendy Boutique",
+        "address": "150 Oak Rd, Manchester",
+        "country": "United Kingdom"
+      },
+      {
+        "id": 20,
+        "name": "Metro Emporium",
+        "address": "24 Main St, Milan",
+        "country": "Italy"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Bosch Motor Oil 5L",
+    "description": "Essential motor oil 5l by Bosch. Reliable quality for everyday use, sourced from Germany.",
+    "price": 126.44,
+    "country": "Germany",
+    "manufacturer": "Bosch",
+    "category": {
+      "id": 8,
+      "name": "Automotive"
+    },
+    "shop": [
+      {
+        "id": 6,
+        "name": "Green Goods",
+        "address": "72 Market Sq, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 2,
+        "name": "Family Mart",
+        "address": "152 Oak Rd, Hamburg",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Continental Winter Tire Set",
+    "description": "Deluxe winter tire set by Continental. Reliable quality for everyday use, sourced from Netherlands.",
+    "price": 194.43,
+    "country": "Netherlands",
+    "manufacturer": "Continental",
+    "category": {
+      "id": 8,
+      "name": "Automotive"
+    },
+    "shop": [
+      {
+        "id": 11,
+        "name": "Grand Market",
+        "address": "21 Market Sq, Wroclaw",
+        "country": "Poland"
+      },
+      {
+        "id": 13,
+        "name": "Home Outlet",
+        "address": "172 2nd Ave, Chicago",
+        "country": "USA"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Continental Dash Cam",
+    "description": "Eco dash cam by Continental. Reliable quality for everyday use, sourced from Netherlands.",
+    "price": 752.24,
+    "country": "Netherlands",
+    "manufacturer": "Continental",
+    "category": {
+      "id": 8,
+      "name": "Automotive"
+    },
+    "shop": [
+      {
+        "id": 1,
+        "name": "Local Outlet",
+        "address": "58 Market Sq, Berlin",
+        "country": "Germany"
+      },
+      {
+        "id": 18,
+        "name": "Modern Shop",
+        "address": "68 Market Sq, Gothenburg",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Bosch Car Vacuum Cleaner",
+    "description": "Pro car vacuum cleaner by Bosch. Reliable quality for everyday use, sourced from Italy.",
+    "price": 586.87,
+    "country": "Italy",
+    "manufacturer": "Bosch",
+    "category": {
+      "id": 8,
+      "name": "Automotive"
+    },
+    "shop": [
+      {
+        "id": 2,
+        "name": "Family Mart",
+        "address": "152 Oak Rd, Hamburg",
+        "country": "Germany"
+      },
+      {
+        "id": 1,
+        "name": "Local Outlet",
+        "address": "58 Market Sq, Berlin",
+        "country": "Germany"
+      },
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Michelin LED Headlight Bulb",
+    "description": "Signature led headlight bulb by Michelin. Reliable quality for everyday use, sourced from Poland.",
+    "price": 141.37,
+    "country": "Poland",
+    "manufacturer": "Michelin",
+    "category": {
+      "id": 8,
+      "name": "Automotive"
+    },
+    "shop": [
+      {
+        "id": 16,
+        "name": "North Goods",
+        "address": "103 2nd Ave, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Bosch Windshield Wiper",
+    "description": "Pro windshield wiper by Bosch. Reliable quality for everyday use, sourced from Czech Republic.",
+    "price": 421.2,
+    "country": "Czech Republic",
+    "manufacturer": "Bosch",
+    "category": {
+      "id": 8,
+      "name": "Automotive"
+    },
+    "shop": [
+      {
+        "id": 12,
+        "name": "Local Emporium",
+        "address": "163 2nd Ave, Munich",
+        "country": "Germany"
+      },
+      {
+        "id": 6,
+        "name": "Green Goods",
+        "address": "72 Market Sq, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Osram Car Phone Mount",
+    "description": "Compact car phone mount by Osram. Reliable quality for everyday use, sourced from Czech Republic.",
+    "price": 701.11,
+    "country": "Czech Republic",
+    "manufacturer": "Osram",
+    "category": {
+      "id": 8,
+      "name": "Automotive"
+    },
+    "shop": [
+      {
+        "id": 10,
+        "name": "Trendy Outlet",
+        "address": "181 Main St, Brno",
+        "country": "Czech Republic"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Bosch Seat Cover Set",
+    "description": "Premium seat cover set by Bosch. Reliable quality for everyday use, sourced from Czech Republic.",
+    "price": 836.34,
+    "country": "Czech Republic",
+    "manufacturer": "Bosch",
+    "category": {
+      "id": 8,
+      "name": "Automotive"
+    },
+    "shop": [
+      {
+        "id": 13,
+        "name": "Home Outlet",
+        "address": "172 2nd Ave, Chicago",
+        "country": "USA"
+      },
+      {
+        "id": 20,
+        "name": "Metro Emporium",
+        "address": "24 Main St, Milan",
+        "country": "Italy"
+      },
+      {
+        "id": 7,
+        "name": "Central Mart",
+        "address": "98 Main St, Manchester",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Bosch Tire Pressure Gauge",
+    "description": "Pro tire pressure gauge by Bosch. Reliable quality for everyday use, sourced from Czech Republic.",
+    "price": 96.19,
+    "country": "Czech Republic",
+    "manufacturer": "Bosch",
+    "category": {
+      "id": 8,
+      "name": "Automotive"
+    },
+    "shop": [
+      {
+        "id": 20,
+        "name": "Metro Emporium",
+        "address": "24 Main St, Milan",
+        "country": "Italy"
+      },
+      {
+        "id": 4,
+        "name": "Family Outlet",
+        "address": "184 High St, Prague",
+        "country": "Czech Republic"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Heinz Extra Virgin Olive Oil",
+    "description": "Deluxe extra virgin olive oil by Heinz. Reliable quality for everyday use, sourced from Poland.",
+    "price": 481.8,
+    "country": "Poland",
+    "manufacturer": "Heinz",
+    "category": {
+      "id": 9,
+      "name": "Groceries"
+    },
+    "shop": [
+      {
+        "id": 12,
+        "name": "Local Emporium",
+        "address": "163 2nd Ave, Munich",
+        "country": "Germany"
+      },
+      {
+        "id": 3,
+        "name": "Prime Outlet",
+        "address": "60 River Ln, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 17,
+        "name": "Trendy Goods",
+        "address": "55 High St, Berlin",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Barilla Dark Chocolate Bar",
+    "description": "Essential dark chocolate bar by Barilla. Reliable quality for everyday use, sourced from Poland.",
+    "price": 740.98,
+    "country": "Poland",
+    "manufacturer": "Barilla",
+    "category": {
+      "id": 9,
+      "name": "Groceries"
+    },
+    "shop": [
+      {
+        "id": 14,
+        "name": "Bright Outlet",
+        "address": "42 Oak Rd, Hamburg",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Barilla Ground Coffee 500g",
+    "description": "Classic ground coffee 500g by Barilla. Reliable quality for everyday use, sourced from Sweden.",
+    "price": 394.75,
+    "country": "Sweden",
+    "manufacturer": "Barilla",
+    "category": {
+      "id": 9,
+      "name": "Groceries"
+    },
+    "shop": [
+      {
+        "id": 17,
+        "name": "Trendy Goods",
+        "address": "55 High St, Berlin",
+        "country": "Germany"
+      },
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      },
+      {
+        "id": 18,
+        "name": "Modern Shop",
+        "address": "68 Market Sq, Gothenburg",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Lindt Pasta 1kg",
+    "description": "Essential pasta 1kg by Lindt. Reliable quality for everyday use, sourced from Sweden.",
+    "price": 744.02,
+    "country": "Sweden",
+    "manufacturer": "Lindt",
+    "category": {
+      "id": 9,
+      "name": "Groceries"
+    },
+    "shop": [
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      },
+      {
+        "id": 11,
+        "name": "Grand Market",
+        "address": "21 Market Sq, Wroclaw",
+        "country": "Poland"
+      },
+      {
+        "id": 8,
+        "name": "Fresh Market",
+        "address": "12 High St, Rome",
+        "country": "Italy"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Nestle Sparkling Water 6-pack",
+    "description": "Advanced sparkling water 6-pack by Nestle. Reliable quality for everyday use, sourced from France.",
+    "price": 223.25,
+    "country": "France",
+    "manufacturer": "Nestle",
+    "category": {
+      "id": 9,
+      "name": "Groceries"
+    },
+    "shop": [
+      {
+        "id": 19,
+        "name": "Trendy Boutique",
+        "address": "150 Oak Rd, Manchester",
+        "country": "United Kingdom"
+      },
+      {
+        "id": 13,
+        "name": "Home Outlet",
+        "address": "172 2nd Ave, Chicago",
+        "country": "USA"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Barilla Honey Jar",
+    "description": "Advanced honey jar by Barilla. Reliable quality for everyday use, sourced from Poland.",
+    "price": 766.59,
+    "country": "Poland",
+    "manufacturer": "Barilla",
+    "category": {
+      "id": 9,
+      "name": "Groceries"
+    },
+    "shop": [
+      {
+        "id": 16,
+        "name": "North Goods",
+        "address": "103 2nd Ave, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Danone Green Tea Box",
+    "description": "Eco green tea box by Danone. Reliable quality for everyday use, sourced from Italy.",
+    "price": 309.59,
+    "country": "Italy",
+    "manufacturer": "Danone",
+    "category": {
+      "id": 9,
+      "name": "Groceries"
+    },
+    "shop": [
+      {
+        "id": 9,
+        "name": "City Mart",
+        "address": "142 2nd Ave, Stockholm",
+        "country": "Sweden"
+      },
+      {
+        "id": 18,
+        "name": "Modern Shop",
+        "address": "68 Market Sq, Gothenburg",
+        "country": "Sweden"
+      },
+      {
+        "id": 1,
+        "name": "Local Outlet",
+        "address": "58 Market Sq, Berlin",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Heinz Almond Milk",
+    "description": "Compact almond milk by Heinz. Reliable quality for everyday use, sourced from United Kingdom.",
+    "price": 221.0,
+    "country": "United Kingdom",
+    "manufacturer": "Heinz",
+    "category": {
+      "id": 9,
+      "name": "Groceries"
+    },
+    "shop": [
+      {
+        "id": 16,
+        "name": "North Goods",
+        "address": "103 2nd Ave, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 18,
+        "name": "Modern Shop",
+        "address": "68 Market Sq, Gothenburg",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Danone Breakfast Cereal",
+    "description": "Advanced breakfast cereal by Danone. Reliable quality for everyday use, sourced from Sweden.",
+    "price": 406.11,
+    "country": "Sweden",
+    "manufacturer": "Danone",
+    "category": {
+      "id": 9,
+      "name": "Groceries"
+    },
+    "shop": [
+      {
+        "id": 3,
+        "name": "Prime Outlet",
+        "address": "60 River Ln, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Barilla Tomato Sauce",
+    "description": "Essential tomato sauce by Barilla. Reliable quality for everyday use, sourced from United Kingdom.",
+    "price": 624.14,
+    "country": "United Kingdom",
+    "manufacturer": "Barilla",
+    "category": {
+      "id": 9,
+      "name": "Groceries"
+    },
+    "shop": [
+      {
+        "id": 19,
+        "name": "Trendy Boutique",
+        "address": "150 Oak Rd, Manchester",
+        "country": "United Kingdom"
+      },
+      {
+        "id": 12,
+        "name": "Local Emporium",
+        "address": "163 2nd Ave, Munich",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Omron Multivitamin Tablets",
+    "description": "Everyday multivitamin tablets by Omron. Reliable quality for everyday use, sourced from Spain.",
+    "price": 312.65,
+    "country": "Spain",
+    "manufacturer": "Omron",
+    "category": {
+      "id": 10,
+      "name": "Health & Wellness"
+    },
+    "shop": [
+      {
+        "id": 18,
+        "name": "Modern Shop",
+        "address": "68 Market Sq, Gothenburg",
+        "country": "Sweden"
+      },
+      {
+        "id": 11,
+        "name": "Grand Market",
+        "address": "21 Market Sq, Wroclaw",
+        "country": "Poland"
+      },
+      {
+        "id": 12,
+        "name": "Local Emporium",
+        "address": "163 2nd Ave, Munich",
+        "country": "Germany"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Omron Digital Thermometer",
+    "description": "Eco digital thermometer by Omron. Reliable quality for everyday use, sourced from France.",
+    "price": 230.0,
+    "country": "France",
+    "manufacturer": "Omron",
+    "category": {
+      "id": 10,
+      "name": "Health & Wellness"
+    },
+    "shop": [
+      {
+        "id": 7,
+        "name": "Central Mart",
+        "address": "98 Main St, Manchester",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Braun Blood Pressure Monitor",
+    "description": "Everyday blood pressure monitor by Braun. Reliable quality for everyday use, sourced from Germany.",
+    "price": 856.03,
+    "country": "Germany",
+    "manufacturer": "Braun",
+    "category": {
+      "id": 10,
+      "name": "Health & Wellness"
+    },
+    "shop": [
+      {
+        "id": 6,
+        "name": "Green Goods",
+        "address": "72 Market Sq, Krakow",
+        "country": "Poland"
+      },
+      {
+        "id": 7,
+        "name": "Central Mart",
+        "address": "98 Main St, Manchester",
+        "country": "United Kingdom"
+      },
+      {
+        "id": 19,
+        "name": "Trendy Boutique",
+        "address": "150 Oak Rd, Manchester",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Omron Protein Powder",
+    "description": "Signature protein powder by Omron. Reliable quality for everyday use, sourced from France.",
+    "price": 879.05,
+    "country": "France",
+    "manufacturer": "Omron",
+    "category": {
+      "id": 10,
+      "name": "Health & Wellness"
+    },
+    "shop": [
+      {
+        "id": 20,
+        "name": "Metro Emporium",
+        "address": "24 Main St, Milan",
+        "country": "Italy"
+      },
+      {
+        "id": 10,
+        "name": "Trendy Outlet",
+        "address": "181 Main St, Brno",
+        "country": "Czech Republic"
+      },
+      {
+        "id": 4,
+        "name": "Family Outlet",
+        "address": "184 High St, Prague",
+        "country": "Czech Republic"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Vichy First Aid Kit",
+    "description": "Pro first aid kit by Vichy. Reliable quality for everyday use, sourced from France.",
+    "price": 327.98,
+    "country": "France",
+    "manufacturer": "Vichy",
+    "category": {
+      "id": 10,
+      "name": "Health & Wellness"
+    },
+    "shop": [
+      {
+        "id": 1,
+        "name": "Local Outlet",
+        "address": "58 Market Sq, Berlin",
+        "country": "Germany"
+      },
+      {
+        "id": 18,
+        "name": "Modern Shop",
+        "address": "68 Market Sq, Gothenburg",
+        "country": "Sweden"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Vichy Electric Shaver",
+    "description": "Premium electric shaver by Vichy. Reliable quality for everyday use, sourced from France.",
+    "price": 876.98,
+    "country": "France",
+    "manufacturer": "Vichy",
+    "category": {
+      "id": 10,
+      "name": "Health & Wellness"
+    },
+    "shop": [
+      {
+        "id": 10,
+        "name": "Trendy Outlet",
+        "address": "181 Main St, Brno",
+        "country": "Czech Republic"
+      },
+      {
+        "id": 5,
+        "name": "Grand Emporium",
+        "address": "151 2nd Ave, Barcelona",
+        "country": "Spain"
+      },
+      {
+        "id": 16,
+        "name": "North Goods",
+        "address": "103 2nd Ave, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Nature's Bounty Fitness Smartwatch",
+    "description": "Signature fitness smartwatch by Nature's Bounty. Reliable quality for everyday use, sourced from Poland.",
+    "price": 259.47,
+    "country": "Poland",
+    "manufacturer": "Nature's Bounty",
+    "category": {
+      "id": 10,
+      "name": "Health & Wellness"
+    },
+    "shop": [
+      {
+        "id": 15,
+        "name": "Family Outlet",
+        "address": "176 2nd Ave, Rotterdam",
+        "country": "Netherlands"
+      },
+      {
+        "id": 11,
+        "name": "Grand Market",
+        "address": "21 Market Sq, Wroclaw",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Vichy Omega-3 Capsules",
+    "description": "Eco omega-3 capsules by Vichy. Reliable quality for everyday use, sourced from Poland.",
+    "price": 847.24,
+    "country": "Poland",
+    "manufacturer": "Vichy",
+    "category": {
+      "id": 10,
+      "name": "Health & Wellness"
+    },
+    "shop": [
+      {
+        "id": 4,
+        "name": "Family Outlet",
+        "address": "184 High St, Prague",
+        "country": "Czech Republic"
+      },
+      {
+        "id": 3,
+        "name": "Prime Outlet",
+        "address": "60 River Ln, Krakow",
+        "country": "Poland"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Omron Hand Sanitizer",
+    "description": "Compact hand sanitizer by Omron. Reliable quality for everyday use, sourced from Sweden.",
+    "price": 521.42,
+    "country": "Sweden",
+    "manufacturer": "Omron",
+    "category": {
+      "id": 10,
+      "name": "Health & Wellness"
+    },
+    "shop": [
+      {
+        "id": 2,
+        "name": "Family Mart",
+        "address": "152 Oak Rd, Hamburg",
+        "country": "Germany"
+      },
+      {
+        "id": 5,
+        "name": "Grand Emporium",
+        "address": "151 2nd Ave, Barcelona",
+        "country": "Spain"
+      },
+      {
+        "id": 19,
+        "name": "Trendy Boutique",
+        "address": "150 Oak Rd, Manchester",
+        "country": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Garmin Sleep Mask",
+    "description": "Compact sleep mask by Garmin. Reliable quality for everyday use, sourced from France.",
+    "price": 894.55,
+    "country": "France",
+    "manufacturer": "Garmin",
+    "category": {
+      "id": 10,
+      "name": "Health & Wellness"
+    },
+    "shop": [
+      {
+        "id": 18,
+        "name": "Modern Shop",
+        "address": "68 Market Sq, Gothenburg",
+        "country": "Sweden"
+      }
+    ]
+  }
+]

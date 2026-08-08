@@ -9,17 +9,26 @@
     "build": "tsc -p tsconfig.json",
     "start": "node --enable-source-maps dist/index.js",
     "typecheck": "tsc --noEmit",
+    "db:up": "docker compose up -d --wait",
+    "db:down": "docker compose down",
+    "db:reset": "docker compose down -v && docker compose up -d --wait && prisma migrate deploy && prisma db seed",
+    "db:psql": "docker compose exec db psql -U postgres -d fullstack_dev",
+    "db:studio": "prisma studio",
     "test": "echo \"no tests yet — added at stage 9\" && exit 0"
   },
   "author": "Marharyta",
   "license": "ISC",
   "dependencies": {
+    "@prisma/adapter-pg": "^7.9.1",
+    "@prisma/client": "^7.9.1",
     "axios": "^1.19.0",
     "express": "^5.2.1"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
     "@types/node": "^26.1.2",
+    "dotenv": "^17.4.2",
+    "prisma": "^7.9.1",
     "tsx": "^4.23.5",
     "typescript": "^7.0.2"
   }

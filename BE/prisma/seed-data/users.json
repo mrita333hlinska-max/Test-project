@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Alicja Nowak",
+    "username": "alicja_n",
+    "email": "alicja.nowak@example.com",
+    "password": "Passw0rd!1",
+    "passwordHash": "ac01b05ffcf96187c62ec202d644a9b8d4a9a8a3f15a29711ef9998c5fadb11b",
+    "address": "29 Park Ave, Krakow",
+    "country": "Poland",
+    "products": [
+      78,
+      77,
+      80
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ben Carter",
+    "username": "ben_carter",
+    "email": "ben.carter@example.com",
+    "password": "Passw0rd!2",
+    "passwordHash": "6da519218aaefb16bb86604afa501c92a9934d997b8caebe2c34da289f5f5bd9",
+    "address": "8 Sunset Blvd, London",
+    "country": "United Kingdom",
+    "products": [
+      55,
+      40,
+      73,
+      80
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chiara Rossi",
+    "username": "chiara_r",
+    "email": "chiara.rossi@example.com",
+    "password": "Passw0rd!3",
+    "passwordHash": "c45bfc1a082c11be42d61f11909a015cc23f9f22361fc7518b66570dd68879f4",
+    "address": "21 Market St, Milan",
+    "country": "Italy",
+    "products": []
+  },
+  {
+    "id": 4,
+    "name": "David Schmidt",
+    "username": "d_schmidt",
+    "email": "david.schmidt@example.com",
+    "password": "Passw0rd!4",
+    "passwordHash": "00f99ac1a577f5e93c0f8a17a70b6665d862aee826f6d95d959fc9affa2fcb5b",
+    "address": "10 Market St, Berlin",
+    "country": "Germany",
+    "products": [
+      71
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Elena Petrova",
+    "username": "elena_p",
+    "email": "elena.petrova@example.com",
+    "password": "Passw0rd!5",
+    "passwordHash": "238e64ba52f96c54de71d0dae4612a00caaa62f46342cca62c160757cddf9e21",
+    "address": "61 Elm St, Prague",
+    "country": "Czech Republic",
+    "products": [
+      58,
+      89,
+      77
+    ]
+  }
+]

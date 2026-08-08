@@ -1,0 +1,66 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model Category {
+  id       Int       @id @default(autoincrement())
+  name     String    @unique
+  products Product[]
+}
+
+model Shop {
+  id       Int       @id @default(autoincrement())
+  name     String
+  address  String
+  country  String
+  products Product[]
+
+  @@unique([name, address])
+}
+
+model User {
+  id        String     @id @default(uuid())
+  name      String
+  username  String     @unique
+  email     String     @unique
+  address   String
+  country   String
+  cartItems CartItem[]
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+}
+
+model Product {
+  id           Int        @id @default(autoincrement())
+  name         String
+  description  String
+  price        Decimal    @db.Decimal(10, 2)
+  country      String
+  manufacturer String
+  categoryId   Int
+  category     Category   @relation(fields: [categoryId], references: [id], onDelete: Restrict)
+  shops        Shop[]
+  cartItems    CartItem[]
+  createdAt    DateTime   @default(now())
+  updatedAt    DateTime   @updatedAt
+
+  @@index([categoryId])
+}
+
+model CartItem {
+  userId    String
+  productId Int
+  quantity  Int      @default(1)
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  product   Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@id([userId, productId])
+  @@index([productId])
+}
