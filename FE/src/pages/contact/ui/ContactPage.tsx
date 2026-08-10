@@ -1,5 +1,5 @@
-import { EmptyState } from "../../components/EmptyState";
+import { EmptyState } from "@/shared/ui";
 
-export default function ContactPage() {
+export function ContactPage() {
   return <EmptyState title="Contact" hint="Email and links, coming shortly." />;
 }

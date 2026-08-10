@@ -1,7 +1,7 @@
 import { useCallback, useRef, useState } from "react";
-import { WeatherBadge } from "../features/weather/WeatherBadge";
+import { WeatherBadge } from "@/features/weather";
+import { MenuIcon } from "@/shared/ui";
 import { Breadcrumbs } from "./Breadcrumbs";
-import { MenuIcon } from "./icons";
 import { NavDrawer } from "./NavDrawer";
 
 export function Header() {

@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 
-export default function NotFoundPage() {
+export function NotFoundPage() {
   return (
     <section>
       <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">Page not found</h1>

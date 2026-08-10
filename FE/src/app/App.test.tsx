@@ -1,6 +1,6 @@
 import { render, screen } from "@testing-library/react";
 import { MemoryRouter } from "react-router";
-import App from "./App";
+import { App } from "./App";
 
 /**
  * The header fetches live weather on mount. A unit test must never touch the
@@ -48,9 +48,7 @@ describe("App routing", () => {
   it("renders the not-found page for an unknown route", () => {
     renderAt("/nope");
 
-    expect(
-      screen.getByRole("heading", { level: 1, name: "Page not found" }),
-    ).toBeInTheDocument();
+    expect(screen.getByRole("heading", { level: 1, name: "Page not found" })).toBeInTheDocument();
   });
 
   it("shows the breadcrumb trail for the current page", () => {

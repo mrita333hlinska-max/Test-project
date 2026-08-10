@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import type { Coordinates, CurrentWeather } from "./api";
-import { fetchCurrentWeather } from "./api";
+import type { Coordinates, CurrentWeather } from "../api/fetchCurrentWeather";
+import { fetchCurrentWeather } from "../api/fetchCurrentWeather";
 
 /**
  * A discriminated union, not `{ data, isLoading, error }`.

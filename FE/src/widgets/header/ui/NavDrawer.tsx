@@ -1,8 +1,8 @@
 import { useEffect, useRef } from "react";
 import { createPortal } from "react-dom";
 import { NavLink, useLocation } from "react-router";
-import { appRoutes } from "../routes";
-import { CloseIcon } from "./icons";
+import { HOME_PATH, navigationItems } from "@/shared/config";
+import { CloseIcon } from "@/shared/ui";
 
 type NavDrawerProps = {
   isOpen: boolean;
@@ -57,10 +57,7 @@ export function NavDrawer({ isOpen, onClose }: NavDrawerProps) {
   // would resolve to the 64px header box instead of the viewport, and the
   // overlay would darken only the header. A portal escapes that entirely.
   return createPortal(
-    <div
-      className={`fixed inset-0 z-50 ${isOpen ? "" : "pointer-events-none"}`}
-      inert={!isOpen}
-    >
+    <div className={`fixed inset-0 z-50 ${isOpen ? "" : "pointer-events-none"}`} inert={!isOpen}>
       <div
         className={`absolute inset-0 bg-ink/25 transition-opacity duration-200 ${
           isOpen ? "opacity-100" : "opacity-0"
@@ -91,11 +88,11 @@ export function NavDrawer({ isOpen, onClose }: NavDrawerProps) {
 
         <nav aria-label="Main" className="p-3">
           <ul className="flex flex-col gap-1">
-            {appRoutes.map((route) => (
-              <li key={route.path}>
+            {navigationItems.map((item) => (
+              <li key={item.path}>
                 <NavLink
-                  to={route.path}
-                  end={route.path === "/"}
+                  to={item.path}
+                  end={item.path === HOME_PATH}
                   className={({ isActive }) =>
                     `block rounded-xl px-4 py-2.5 text-[0.95rem] transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent ${
                       isActive
@@ -104,7 +101,7 @@ export function NavDrawer({ isOpen, onClose }: NavDrawerProps) {
                     }`
                   }
                 >
-                  {route.label}
+                  {item.label}
                 </NavLink>
               </li>
             ))}

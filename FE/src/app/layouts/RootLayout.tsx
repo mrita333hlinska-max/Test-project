@@ -1,10 +1,17 @@
 import { Outlet } from "react-router";
-import { Header } from "./Header";
+import { Header } from "@/widgets/header";
 
 /**
- * The shell every page renders inside. `<Outlet />` is the hole the matched
- * child route fills — which is why the header mounts once and keeps its state
- * (and its weather request) across navigation, instead of remounting per page.
+ * The shell every page renders inside.
+ *
+ * FSD allows an app-wide layout on either the `app` or the `widgets` layer.
+ * It sits here because it is bound to routing — `<Outlet />` only means
+ * anything inside a `<Route>` — and routing is an app-layer concern. A widget
+ * is supposed to be a block you could drop onto any page; this is the page
+ * frame itself.
+ *
+ * Mounting the header here rather than inside each page is what lets it keep
+ * its state, and its in-flight weather request, across navigation.
  */
 export function RootLayout() {
   return (

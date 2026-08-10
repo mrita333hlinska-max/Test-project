@@ -1,11 +1,11 @@
 import { Link } from "react-router";
-import { Avatar } from "../../components/Avatar";
+import { Avatar } from "@/shared/ui";
 
 // TODO(marharyta): your own copy.
 const NAME = "Marharyta Hlinska";
 const ROLE = "Frontend engineer";
 
-export default function ProfilePage() {
+export function ProfilePage() {
   return (
     <article>
       {/*

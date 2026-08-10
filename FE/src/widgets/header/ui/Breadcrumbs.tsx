@@ -1,11 +1,11 @@
 import { Link, useLocation } from "react-router";
-import { appRoutes } from "../routes";
-import { buildBreadcrumbs } from "./buildBreadcrumbs";
-import { ChevronRightIcon } from "./icons";
+import { navigationItems } from "@/shared/config";
+import { ChevronRightIcon } from "@/shared/ui";
+import { buildBreadcrumbs } from "../lib/buildBreadcrumbs";
 
 export function Breadcrumbs() {
   const { pathname } = useLocation();
-  const trail = buildBreadcrumbs(pathname, appRoutes);
+  const trail = buildBreadcrumbs(pathname, navigationItems);
 
   return (
     // `aria-label` is what distinguishes this <nav> from the drawer's <nav>:
@@ -18,9 +18,7 @@ export function Breadcrumbs() {
 
           return (
             <li key={crumb.path} className="flex min-w-0 items-center gap-1">
-              {index > 0 && (
-                <ChevronRightIcon className="size-3.5 shrink-0 text-line" />
-              )}
+              {index > 0 && <ChevronRightIcon className="size-3.5 shrink-0 text-line" />}
               {isCurrent ? (
                 // The current page is not a link — clicking it would go
                 // nowhere. `aria-current` is how assistive tech is told which

@@ -1,5 +1,5 @@
 import type { ComponentType } from "react";
-import type { IconProps } from "../../components/icons";
+import type { IconProps } from "@/shared/ui";
 import {
   CloudIcon,
   DrizzleIcon,
@@ -10,11 +10,11 @@ import {
   SnowIcon,
   SunIcon,
   ThunderstormIcon,
-} from "../../components/icons";
-import { HOME_LOCATION, HOME_LOCATION_LABEL } from "./location";
-import { useWeather } from "./useWeather";
-import type { WeatherCondition } from "./weatherCondition";
-import { CONDITION_LABEL } from "./weatherCondition";
+} from "@/shared/ui";
+import { HOME_LOCATION, HOME_LOCATION_LABEL } from "../config/location";
+import type { WeatherCondition } from "../lib/weatherCondition";
+import { CONDITION_LABEL } from "../lib/weatherCondition";
+import { useWeather } from "../model/useWeather";
 
 const CONDITION_ICON: Record<WeatherCondition, ComponentType<IconProps>> = {
   clear: SunIcon,

@@ -1,5 +1,5 @@
-import type { WeatherCondition } from "./weatherCondition";
-import { conditionFromWeatherCode } from "./weatherCondition";
+import type { WeatherCondition } from "../lib/weatherCondition";
+import { conditionFromWeatherCode } from "../lib/weatherCondition";
 
 /**
  * Open-Meteo current-conditions client.

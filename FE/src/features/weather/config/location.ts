@@ -1,4 +1,4 @@
-import type { Coordinates } from "./api";
+import type { Coordinates } from "../api/fetchCurrentWeather";
 
 /**
  * The location the header reports the weather for.

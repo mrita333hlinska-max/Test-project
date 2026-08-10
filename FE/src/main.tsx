@@ -4,8 +4,7 @@ import { BrowserRouter } from "react-router";
 import "@fontsource/roboto/300.css";
 import "@fontsource/roboto/400.css";
 import "@fontsource/roboto/500.css";
-import "./index.css";
-import App from "./App";
+import { App } from "@/app";
 
 const rootElement = document.getElementById("root");
 
@@ -17,6 +16,9 @@ if (!rootElement) {
   throw new Error('index.html is missing <div id="root">');
 }
 
+// main.tsx sits outside the layer system on purpose — it is the Vite
+// entrypoint, the same kind of file as index.html. Its only job is to bind
+// the app to the real browser: the DOM node and the real URL.
 createRoot(rootElement).render(
   <StrictMode>
     <BrowserRouter>

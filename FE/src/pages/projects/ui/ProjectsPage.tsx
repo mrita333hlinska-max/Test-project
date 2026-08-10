@@ -1,5 +1,5 @@
-import { EmptyState } from "../../components/EmptyState";
+import { EmptyState } from "@/shared/ui";
 
-export default function ProjectsPage() {
+export function ProjectsPage() {
   return <EmptyState title="Projects" hint="Things I have built, once I write them up." />;
 }

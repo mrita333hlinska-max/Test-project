@@ -15,6 +15,17 @@
     "noEmit": true,
     "jsx": "react-jsx",
 
+    // Mirrors resolve.alias in vite.config.ts. Both are needed and they must
+    // agree: Vite resolves the alias at build time, TypeScript only at check
+    // time. Change one without the other and the editor and the bundle
+    // disagree about what "@/shared/ui" means.
+    //
+    // No "baseUrl": it is deprecated in TypeScript 7. Without it, the targets
+    // below are resolved relative to this tsconfig file, which is what we want.
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
