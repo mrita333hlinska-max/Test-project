@@ -25,6 +25,10 @@ app.get("/chush", (_req, res) => {
   });
 });
 
+app.post("/", express.json(), (req, res) => {
+  console.log(req.body);
+});
+
 app.get("/api", (_req, res) => {
   res.json({ message: "This is the API endpoint." }); // Send a JSON response for the /api route
 });
