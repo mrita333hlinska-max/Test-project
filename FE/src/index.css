@@ -1,17 +1,65 @@
-html,
-body,
-#root {
-  min-height: 100%;
+@import "tailwindcss";
+
+/*
+ * Design tokens.
+ *
+ * `@theme` is not the same as `:root`: every variable declared here also
+ * generates matching utility classes, so `--color-ink` gives us `text-ink`,
+ * `bg-ink`, `border-ink`, `fill-ink` and so on.
+ *
+ * The names are semantic (canvas / surface / ink), never literal (beige /
+ * grey-700). A literal name is a lie waiting to happen — the day the palette
+ * shifts, `bg-beige` is suddenly green everywhere in the codebase.
+ *
+ * Colours are in oklch because it is perceptually uniform: two colours with
+ * the same lightness number actually look equally light, which is what makes
+ * a muted palette stay muted.
+ */
+@theme {
+  /* Neutrals — warm, almost no chroma. */
+  --color-canvas: oklch(98.5% 0.004 95);
+  --color-surface: oklch(100% 0 0);
+  --color-line: oklch(91% 0.006 95);
+  --color-ink: oklch(27% 0.012 90);
+  --color-ink-muted: oklch(54% 0.01 90);
+
+  /* Accent — desaturated slate-teal. One accent only: that is the whole
+     discipline of a minimal palette. */
+  --color-accent: oklch(52% 0.055 215);
+  --color-accent-soft: oklch(95.5% 0.017 215);
+
+  --font-sans: "Roboto", ui-sans-serif, system-ui, sans-serif;
 }
 
-body {
-  margin: 0;
+/*
+ * Dark mode without a single `dark:` class.
+ *
+ * The utilities above compile to `var(--color-canvas)` etc., so re-pointing
+ * the variables here re-themes every component at once. Writing `dark:`
+ * variants by hand would mean touching every element twice and forgetting
+ * one of them.
+ */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-canvas: oklch(19.5% 0.008 90);
+    --color-surface: oklch(23.5% 0.009 90);
+    --color-line: oklch(31% 0.01 90);
+    --color-ink: oklch(94% 0.006 95);
+    --color-ink-muted: oklch(70% 0.009 95);
+    --color-accent: oklch(76% 0.06 215);
+    --color-accent-soft: oklch(30% 0.03 215);
+  }
 }
 
-* {
-  box-sizing: border-box;
+html {
+  color-scheme: light dark;
 }
 
-a {
-  color: inherit;
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
 }
