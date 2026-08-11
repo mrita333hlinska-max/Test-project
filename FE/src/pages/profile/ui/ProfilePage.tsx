@@ -16,8 +16,16 @@ export function ProfilePage() {
             {NAME}
           </h1>
           <p className="mt-5 max-w-prose text-ink-muted">
-            I build interfaces with React and TypeScript, and I am currently
-            working my way down the stack — Node, Express, Postgres.
+            Hello! My name is {NAME}, and I'm a frontend developer with over 7
+            years of experience. I'm highly skilled in creating user-friendly
+            and visually appealing applications. My journey in this field
+            started with a big passion for creating seamless and interactive
+            interfaces. I specialize in technologies such as JavaScript,
+            Typescript, React, Redux, Zustand, different preprocessors like
+            SCSS, Less and different libraries like Lodash, Ant design, Tailwind
+            etc. (to build dynamic and responsive user interfaces). My expertise
+            extends to translating design concepts into effective maintainable
+            codes ensuring a perfect presentation of the company’s vision.
           </p>
         </div>
 
